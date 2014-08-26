@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-oracle"/>
+	<classpathentry kind="lib" path="/home/kiura/workspace/MetBroker4/lib/geoapi.jar"/>
+	<classpathentry kind="lib" path="/home/kiura/workspace/MetBroker4/lib/javolution.jar"/>
+	<classpathentry kind="lib" path="/home/kiura/workspace/MetBroker4/lib/colapi.jar"/>
+	<classpathentry kind="lib" path="/home/kiura/workspace/MetBroker4/lib/jscience.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
